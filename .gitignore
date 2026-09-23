@@ -1,0 +1,7 @@
+work/
+outputs/
+*.aux
+*.log
+*.out
+*.synctex.gz
+
